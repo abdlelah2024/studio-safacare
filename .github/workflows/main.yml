@@ -1,0 +1,8 @@
+# تهيئة مستودع Git محلي
+git init
+
+# إضافة مستودع GitHub كـ origin
+git remote add origin git@github.com:abdlelah2024/studio.git
+
+# أو باستخدام HTTPS (إذا واجهتك مشاكل مع SSH)
+git remote add origin https://github.com/abdlelah2024/studio.git
